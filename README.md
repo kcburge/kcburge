@@ -1,8 +1,7 @@
-## Hi there 👋
+Welcome to my GitHub page!
 
-- 🔭 I’m currently working on building my brand.
-- 🌱 I’m currently learning generative AI and prompt engineering.
-- 👯 I’m looking to collaborate on any of the utilities I will be publishing.
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-- ⚡ Fun fact: I have worked from home for 25 years.
+Throughout my career, I've developed software for private companies that restricted me from sharing my work publicly. As a result, the repositories you'll find here are either forks I've contributed to or modified for my personal use.
+
+In the near future, I intend to share some utilities I've relied on for years to handle everyday tasks. I hope you’ll find them helpful.
+
+Right now, I’m focused on learning about generative AI and prompt engineering, exploring how to practically and effectively apply these skills to general software development, with a particular interest in DevOps applications.
